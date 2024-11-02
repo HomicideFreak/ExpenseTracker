@@ -1,8 +1,10 @@
-import Test from './Test.jsx'
+import MainContainer from "./MainContainer.jsx";
 
 function App() {
   return (
-    <Test/>
+    <>
+      <MainContainer/>
+    </>
   );
 }
 
